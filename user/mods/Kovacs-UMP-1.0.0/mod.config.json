@@ -1,0 +1,33 @@
+{
+    "name": "UMP",
+    "author": "Kovacs",
+    "description": "UMP .45 ACP",
+    "license": "MIT",
+    "version": "1.0.0",
+    "checkUpdateUrl": "",
+    "autoUpdate": true,
+    "res": {
+        "bundles": {
+            "folders": [
+                "bundles"
+            ]
+        }
+    },
+    "src": {
+        "src/modloader.js": "CacheModLoad"
+    },
+    "folders": [
+        "files/assort/ragfair",
+        "files/items",
+        "files/locales/en",
+        "files/templates"
+    ],
+    "filenames": [
+        "UMP_barrel",
+        "UMP_lower",
+        "UMP_bottomrail",
+        "UMP_mag",
+        "UMP_stock",
+        "UMP_siderail"
+    ]
+}

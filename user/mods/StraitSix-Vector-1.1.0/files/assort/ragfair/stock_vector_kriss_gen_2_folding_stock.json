@@ -1,0 +1,10 @@
+{
+	"_id": "stock_vector_kriss_gen_2_folding_stock",
+	"_tpl": "stock_vector_kriss_gen_2_folding_stock",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

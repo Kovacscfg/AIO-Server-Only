@@ -1,0 +1,20 @@
+[0.07s] [ERROR]-Missing files! Rebuilding cache required!
+[0.08s] [WARNING]-Rebuilding cache system
+[0.48s] [WARNING]-Mod CFG-LootFix-1.0.6 not installed, adding it to the modlist
+[0.49s] [WARNING]-Mod TheMaoci-AllItemsExamined-1.0.0 not installed, adding it to the modlist
+[0.75s] [SUCCESS]-Create: Static Response Callbacks
+[0.80s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.86s] [SUCCESS]-Create: Cache Callback
+[0.90s] [SUCCESS]-Create: Start Callback
+[0.91s] [SUCCESS]-Create: Receive Callback
+[0.92s] [SUCCESS]-Create: Respond Callback
+[0.92s] [SUCCESS]-Create: Classes as global variables
+[1.18s] [SUCCESS]-Create: Item Action Callbacks
+[1.19s] -┌────────────────────────┐
+[1.19s] -│ JustEmuTarkov 1.0.3    │
+[1.19s] -│ « discord.gg/T66tGKa » │
+[1.19s] -└────────────────────────┘
+[5.74s] [SUCCESS]-[LootFix] Settings applied
+[7.36s] [SUCCESS]-[MOD] LootFix; Applied
+[7.37s] [SUCCESS]-[MOD] AllItemsExamined; Applied
+[7.39s] [SUCCESS]-Server is working at: https://127.0.0.1:443

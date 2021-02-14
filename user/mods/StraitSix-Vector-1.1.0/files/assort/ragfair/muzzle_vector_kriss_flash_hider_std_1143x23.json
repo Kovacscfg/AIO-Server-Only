@@ -1,0 +1,10 @@
+{
+	"_id": "muzzle_vector_kriss_flash_hider_std_1143x23",
+	"_tpl": "muzzle_vector_kriss_flash_hider_std_1143x23",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

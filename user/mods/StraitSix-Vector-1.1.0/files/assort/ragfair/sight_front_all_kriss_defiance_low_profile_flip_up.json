@@ -1,0 +1,10 @@
+{
+	"_id": "sight_front_all_kriss_defiance_low_profile_flip_up",
+	"_tpl": "sight_front_all_kriss_defiance_low_profile_flip_up",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

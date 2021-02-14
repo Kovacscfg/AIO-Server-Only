@@ -1,0 +1,10 @@
+{
+	"_id": "MCX_charge",
+	"_tpl": "MCX_charge",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

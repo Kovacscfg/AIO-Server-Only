@@ -1,0 +1,23 @@
+[0.05s] [ERROR]-Missing files! Rebuilding cache required!
+[0.05s] [WARNING]-Rebuilding cache system
+[0.45s] [SUCCESS]-Create: Static Response Callbacks
+[0.46s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.47s] [SUCCESS]-Create: Cache Callback
+[0.47s] [SUCCESS]-Create: Start Callback
+[0.47s] [SUCCESS]-Create: Receive Callback
+[0.47s] [SUCCESS]-Create: Respond Callback
+[0.47s] [SUCCESS]-Create: Classes as global variables
+[0.49s] [SUCCESS]-Create: Item Action Callbacks
+[0.49s] -┌────────────────────────┐
+[0.49s] -│ JustEmuTarkov 1.0.3    │
+[0.49s] -│ « discord.gg/T66tGKa » │
+[0.49s] -└────────────────────────┘
+[3.11s] [SUCCESS]-[LootFix] Settings applied
+[3.29s] [SUCCESS]-[MOD] Mk18; Applied
+[3.46s] [SUCCESS]-[MOD] UMP; Applied
+[3.65s] [SUCCESS]-[MOD] Arsenal; Applied
+[3.78s] [SUCCESS]-[MOD] Arsenal; Applied
+[5.27s] [SUCCESS]-[MOD] LootFix; Applied
+[5.28s] [SUCCESS]-[MOD] AllItemsExamined; Applied
+[5.30s] [SUCCESS]-[MOD] BetterBundles; Applied
+[5.33s] [SUCCESS]-Server is working at: https://127.0.0.1:443

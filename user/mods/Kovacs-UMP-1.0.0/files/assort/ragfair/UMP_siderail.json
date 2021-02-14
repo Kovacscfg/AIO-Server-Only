@@ -1,0 +1,10 @@
+{
+	"_id": "UMP_siderail",
+	"_tpl": "UMP_siderail",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

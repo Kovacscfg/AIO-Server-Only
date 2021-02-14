@@ -1,0 +1,10 @@
+{
+	"_id": "barrel_vector_170mm_9x19",
+	"_tpl": "barrel_vector_170mm_9x19",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

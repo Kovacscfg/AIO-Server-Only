@@ -1,0 +1,36 @@
+[0.07s] [ERROR]-Missing files! Rebuilding cache required!
+[0.10s] [WARNING]-Rebuilding cache system
+[0.49s] [WARNING]-Mod Kovacs-Arsenal-2.4.0 not installed, adding it to the modlist
+[0.99s] [SUCCESS]-Create: Static Response Callbacks
+[1.10s] [SUCCESS]-Create: Dynamic Response Callbacks
+[1.22s] [SUCCESS]-Create: Cache Callback
+[1.28s] [SUCCESS]-Create: Start Callback
+[1.29s] [SUCCESS]-Create: Receive Callback
+[1.32s] [SUCCESS]-Create: Respond Callback
+[1.32s] [SUCCESS]-Create: Classes as global variables
+[1.69s] [SUCCESS]-Create: Item Action Callbacks
+[1.69s] -┌────────────────────────┐
+[1.69s] -│ JustEmuTarkov 1.0.3    │
+[1.69s] -│ « discord.gg/T66tGKa » │
+[1.69s] -└────────────────────────┘
+[6.88s] [SUCCESS]-[LootFix] Settings applied
+[7.26s] [SUCCESS]-[MOD] Mk18; Applied
+[7.53s] [SUCCESS]-[MOD] UMP; Applied
+[7.62s] [ERROR]-[Server]:1.0.3
+[7.62s] [ERROR]-[Trace]:
+Error: ENOENT: no such file or directory, open 'D:\EFT stuff\Game Installs\Play testing\user\mods\Kovacs-Arsenal-2.4.0\files\locales\en\MCX_gasblock.json'
+    at Object.openSync (fs.js:440:3)
+    at Object.readFileSync (fs.js:342:35)
+    at Object.readFileSync (D:\EFT stuff\Game Installs\Play testing\Server.exe:201:55)
+    at Object.exports.readParsed (D:\EFT stuff\Game Installs\Play testing\core\util\fileIO.js:1:332)
+    at exports.mod (D:\EFT stuff\Game Installs\Play testing\user\mods\Kovacs-Arsenal-2.4.0\src\modloader.js:30:33)
+    at loadMod (D:\EFT stuff\Game Installs\Play testing\core\server\route.js:7:171)
+    at Object.exports.CacheModLoad (D:\EFT stuff\Game Installs\Play testing\core\server\route.js:8:202)
+    at Server.start (D:\EFT stuff\Game Installs\Play testing\core\server\server.js:24:187)
+    at new Initializer (D:\EFT stuff\Game Installs\Play testing\core\initializer.js:2:176)
+    at Object.<anonymous> (D:\EFT stuff\Game Installs\Play testing\core\initializer.js:7:494) {
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: 'D:\\EFT stuff\\Game Installs\\Play testing\\user\\mods\\Kovacs-Arsenal-2.4.0\\files\\locales\\en\\MCX_gasblock.json'
+}

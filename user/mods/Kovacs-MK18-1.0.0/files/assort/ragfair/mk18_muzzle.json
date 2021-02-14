@@ -1,0 +1,10 @@
+{
+	"_id": "mk18_muzzle",
+	"_tpl": "mk18_muzzle",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

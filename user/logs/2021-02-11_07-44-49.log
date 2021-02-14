@@ -1,0 +1,112 @@
+[0.05s] [ERROR]-Missing files! Rebuilding cache required!
+[0.05s] [WARNING]-Rebuilding cache system
+[0.53s] [SUCCESS]-Create: Static Response Callbacks
+[0.54s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.55s] [SUCCESS]-Create: Cache Callback
+[0.56s] [SUCCESS]-Create: Start Callback
+[0.56s] [SUCCESS]-Create: Receive Callback
+[0.56s] [SUCCESS]-Create: Respond Callback
+[0.56s] [SUCCESS]-Create: Classes as global variables
+[0.58s] [SUCCESS]-Create: Item Action Callbacks
+[0.58s] -┌────────────────────────┐
+[0.58s] -│ JustEmuTarkov 1.0.3    │
+[0.58s] -│ « discord.gg/T66tGKa » │
+[0.58s] -└────────────────────────┘
+[3.79s] [SUCCESS]-[LootFix] Settings applied
+[3.99s] [SUCCESS]-[MOD] Mk18; Applied
+[4.20s] [SUCCESS]-[MOD] UMP; Applied
+[4.40s] [SUCCESS]-[MOD] Vector; Applied
+[4.63s] [SUCCESS]-[MOD] Arsenal; Applied
+[4.80s] [SUCCESS]-[MOD] Arsenal; Applied
+[4.99s] [SUCCESS]-[MOD] MCX; Applied
+[5.15s] [SUCCESS]-[MOD] MCX; Applied
+[5.96s] [SUCCESS]-[MOD] BetterBundles; Applied
+[6.68s] [SUCCESS]-[MOD] LootFix; Applied
+[6.69s] [SUCCESS]-[MOD] AllItemsExamined; Applied
+[6.71s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[8.24s] [LOCAL] -/launcher/server/connect
+[10.19s] [LOCAL] -/launcher/profile/login
+[10.20s] [LOCAL] -/launcher/profile/get
+[16.44s] [LOCAL] -/singleplayer/bundles
+[17.18s] [LOCAL] -/singleplayer/bundles
+[17.34s] [LOCAL] -/mode/offline
+[30.91s] [AID181216492712305345KHG][LOCAL] -/client/game/start
+[30.96s] [AID181216492712305345KHG][LOCAL] -/client/menu/locale/en
+[31.01s] [AID181216492712305345KHG][LOCAL] -/client/game/version/validate
+[31.05s] [AID181216492712305345KHG][LOCAL] -/client/languages
+[31.09s] [AID181216492712305345KHG][LOCAL] -/client/game/config
+[32.25s] [AID181216492712305345KHG][LOCAL] -/client/items
+[43.29s] [AID181216492712305345KHG][LOCAL] -/client/customization
+[43.33s] [AID181216492712305345KHG][LOCAL] -/client/globals
+[44.07s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/list
+[44.70s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/select
+[44.73s] [AID181216492712305345KHG][LOCAL] -/client/profile/status
+[44.82s] [AID181216492712305345KHG][LOCAL] -/client/weather
+[44.85s] [AID181216492712305345KHG][LOCAL] -/client/locale/en
+[44.85s] [AID181216492712305345KHG][LOCAL] -/client/locations
+[44.89s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/select
+[44.93s] [AID181216492712305345KHG][LOCAL] -/client/profile/status
+[45.75s] [AID181216492712305345KHG][LOCAL] -/client/handbook/templates
+[51.17s] [AID181216492712305345KHG][LOCAL] -/client/hideout/areas
+[51.62s] [AID181216492712305345KHG][LOCAL] -/client/hideout/settings
+[52.35s] [AID181216492712305345KHG][LOCAL] -/client/hideout/production/recipes
+[52.99s] [AID181216492712305345KHG][LOCAL] -/client/hideout/production/scavcase/recipes
+[53.08s] [AID181216492712305345KHG][LOCAL] -/client/handbook/builds/my/list
+[53.14s] [AID181216492712305345KHG][LOCAL] -/client/quest/list
+[54.18s] [AID181216492712305345KHG][LOCAL] -/client/notifier/channel/create
+[55.39s] [AID181216492712305345KHG][LOCAL] -/client/mail/dialog/list
+[55.41s] [AID181216492712305345KHG][LOCAL] -/client/profile/status
+[55.42s] [AID181216492712305345KHG][LOCAL] -/client/friend/list
+[55.42s] [AID181216492712305345KHG][LOCAL] -/client/friend/request/list/inbox
+[55.42s] [AID181216492712305345KHG][LOCAL] -/client/friend/request/list/outbox
+[55.46s] [AID181216492712305345KHG][LOCAL] -/client/trading/customization/storage
+[56.27s] [AID181216492712305345KHG][LOCAL] -/client/server/list
+[56.27s] [AID181216492712305345KHG][LOCAL] -/client/trading/api/getTradersList
+[57.69s] [AID181216492712305345KHG][LOCAL] -/client/checkVersion
+[74.71s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[87.34s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[87.50s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[87.50s] [WARNING]-Item 5fb6567747ce63734e3fa1dc does not exist
+[87.50s] [WARNING]-Item 5fc0fa362770a0045c59c677 does not exist
+[87.50s] [WARNING]-Item 5fc0f9b5d724d907e2077d82 does not exist
+[87.50s] [WARNING]-Item 5fc0f9cbd6fa9c00c571bb90 does not exist
+[92.87s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[95.61s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[95.63s] [SUCCESS]-Items taken. Status OK.
+[95.63s] [SUCCESS]-Bought item: 59e0be5d86f7742d48765bd2
+[97.39s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[105.36s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[105.36s] [WARNING]-Item 5fbc22ccf24b94483f726483 does not exist
+[105.36s] [WARNING]-Item 5fbe7618d6fa9c00c571bb6c does not exist
+[107.96s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[107.98s] [SUCCESS]-Items taken. Status OK.
+[107.98s] [SUCCESS]-Bought item: MCX_gasblock
+[109.51s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[109.53s] [SUCCESS]-Items taken. Status OK.
+[109.53s] [SUCCESS]-Bought item: 5c7954d52e221600106f4cc7
+[118.08s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[118.11s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[126.23s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[126.23s] [WARNING]-Item 5fb6567747ce63734e3fa1dc does not exist
+[126.23s] [WARNING]-Item 5fc0fa362770a0045c59c677 does not exist
+[126.23s] [WARNING]-Item 5fc0f9b5d724d907e2077d82 does not exist
+[126.23s] [WARNING]-Item 5fc0f9cbd6fa9c00c571bb90 does not exist
+[128.37s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[130.61s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[133.42s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[134.91s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[134.93s] [SUCCESS]-Items taken. Status OK.
+[134.93s] [SUCCESS]-Bought item: 5a9d6d13a2750c00164f6b03
+[137.23s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[143.61s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[143.63s] [SUCCESS]-Items taken. Status OK.
+[143.63s] [SUCCESS]-Bought item: 5f6340d3ca442212f4047eb2
+[185.85s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[185.89s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[192.13s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[192.16s] [SUCCESS]-Items taken. Status OK.
+[192.16s] [SUCCESS]-Bought item: 300BPZ
+[198.61s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[199.35s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[213.57s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[753.62s] [AID181216492712305345KHG][LOCAL] -/client/game/logout

@@ -1,0 +1,10 @@
+{
+	"_id": "mag_glock_kriss_magex_g30_1143x23_30",
+	"_tpl": "mag_glock_kriss_magex_g30_1143x23_30",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

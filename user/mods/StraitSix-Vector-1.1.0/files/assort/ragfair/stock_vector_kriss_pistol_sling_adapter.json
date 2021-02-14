@@ -1,0 +1,10 @@
+{
+	"_id": "stock_vector_kriss_pistol_sling_adapter",
+	"_tpl": "stock_vector_kriss_pistol_sling_adapter",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

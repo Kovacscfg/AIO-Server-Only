@@ -1,0 +1,10 @@
+{
+	"_id": "mag_glock_glock_21_std_1143x23_13",
+	"_tpl": "mag_glock_glock_21_std_1143x23_13",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

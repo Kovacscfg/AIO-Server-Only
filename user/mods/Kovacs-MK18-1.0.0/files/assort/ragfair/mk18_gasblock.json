@@ -1,0 +1,10 @@
+{
+	"_id": "mk18_gasblock",
+	"_tpl": "mk18_gasblock",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

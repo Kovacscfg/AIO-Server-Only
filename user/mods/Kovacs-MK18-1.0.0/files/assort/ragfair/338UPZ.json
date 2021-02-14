@@ -1,0 +1,10 @@
+{
+	"_id": "338UPZ",
+	"_tpl": "338UPZ",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

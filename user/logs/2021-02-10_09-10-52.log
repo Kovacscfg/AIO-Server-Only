@@ -1,0 +1,38 @@
+[0.05s] [ERROR]-Missing files! Rebuilding cache required!
+[0.05s] [WARNING]-Rebuilding cache system
+[0.48s] [SUCCESS]-Create: Static Response Callbacks
+[0.48s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.49s] [SUCCESS]-Create: Cache Callback
+[0.50s] [SUCCESS]-Create: Start Callback
+[0.50s] [SUCCESS]-Create: Receive Callback
+[0.50s] [SUCCESS]-Create: Respond Callback
+[0.50s] [SUCCESS]-Create: Classes as global variables
+[0.52s] [SUCCESS]-Create: Item Action Callbacks
+[0.52s] -┌────────────────────────┐
+[0.52s] -│ JustEmuTarkov 1.0.3    │
+[0.52s] -│ « discord.gg/T66tGKa » │
+[0.52s] -└────────────────────────┘
+[3.17s] [SUCCESS]-[LootFix] Settings applied
+[3.35s] [SUCCESS]-[MOD] Mk18; Applied
+[3.53s] [SUCCESS]-[MOD] UMP; Applied
+[3.73s] [SUCCESS]-[MOD] Arsenal; Applied
+[3.86s] [SUCCESS]-[MOD] Arsenal; Applied
+[4.04s] [SUCCESS]-[MOD] MCX; Applied
+[4.10s] [ERROR]-[Server]:1.0.3
+[4.10s] [ERROR]-[Trace]:
+Error: ENOENT: no such file or directory, open 'D:\EFT stuff\Game Installs\Play testing\user\mods\Kovacs-MCX-1.0.0\extras\mags\5a7882dcc5856700177af662.json'
+    at Object.openSync (fs.js:440:3)
+    at Object.readFileSync (fs.js:342:35)
+    at Object.readFileSync (D:\EFT stuff\Game Installs\Play testing\Server.exe:201:55)
+    at Object.exports.readParsed (D:\EFT stuff\Game Installs\Play testing\core\util\fileIO.js:1:332)
+    at exports.mod (D:\EFT stuff\Game Installs\Play testing\user\mods\Kovacs-MCX-1.0.0\src\extras.js:27:33)
+    at loadMod (D:\EFT stuff\Game Installs\Play testing\core\server\route.js:7:171)
+    at Object.exports.CacheModLoad (D:\EFT stuff\Game Installs\Play testing\core\server\route.js:8:202)
+    at Server.start (D:\EFT stuff\Game Installs\Play testing\core\server\server.js:24:187)
+    at new Initializer (D:\EFT stuff\Game Installs\Play testing\core\initializer.js:2:176)
+    at Object.<anonymous> (D:\EFT stuff\Game Installs\Play testing\core\initializer.js:7:494) {
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: 'D:\\EFT stuff\\Game Installs\\Play testing\\user\\mods\\Kovacs-MCX-1.0.0\\extras\\mags\\5a7882dcc5856700177af662.json'
+}

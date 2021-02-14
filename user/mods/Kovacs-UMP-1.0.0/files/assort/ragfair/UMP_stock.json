@@ -1,0 +1,10 @@
+{
+	"_id": "UMP_stock",
+	"_tpl": "UMP_stock",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

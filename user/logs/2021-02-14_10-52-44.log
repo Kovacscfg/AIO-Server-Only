@@ -1,0 +1,32 @@
+[0.06s] [ERROR]-Missing files! Rebuilding cache required!
+[0.07s] [WARNING]-Rebuilding cache system
+[0.58s] [WARNING]-Mod CFG-LootFix-1.0.6 not installed, adding it to the modlist
+[0.58s] [WARNING]-Mod Kovacs-Arsenal-2.4.0 not installed, adding it to the modlist
+[0.59s] [WARNING]-Mod Kovacs-MCX-1.0.0 not installed, adding it to the modlist
+[0.60s] [WARNING]-Mod Kovacs-MK18-1.0.0 not installed, adding it to the modlist
+[0.61s] [WARNING]-Mod Kovacs-UMP-1.0.0 not installed, adding it to the modlist
+[0.62s] [WARNING]-Mod StraitSix-Vector-1.1.0 not installed, adding it to the modlist
+[0.63s] [WARNING]-Mod TheMaoci-AllItemsExamined-1.0.0 not installed, adding it to the modlist
+[0.70s] [SUCCESS]-Create: Static Response Callbacks
+[0.71s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.72s] [SUCCESS]-Create: Cache Callback
+[0.73s] [SUCCESS]-Create: Start Callback
+[0.73s] [SUCCESS]-Create: Receive Callback
+[0.73s] [SUCCESS]-Create: Respond Callback
+[0.73s] [SUCCESS]-Create: Classes as global variables
+[0.76s] [SUCCESS]-Create: Item Action Callbacks
+[0.76s] -┌────────────────────────┐
+[0.76s] -│ JustEmuTarkov 1.0.3    │
+[0.76s] -│ « discord.gg/T66tGKa » │
+[0.76s] -└────────────────────────┘
+[4.52s] [SUCCESS]-[LootFix] Settings applied
+[4.81s] [SUCCESS]-[MOD] Arsenal; Applied
+[5.00s] [SUCCESS]-[MOD] Modified Magazines; Applied
+[5.27s] [SUCCESS]-[MOD] MCX; Loaded
+[5.52s] [SUCCESS]-[MOD] Modified Magazines; Finished
+[5.83s] [SUCCESS]-[MOD] Mk18; Applied
+[6.17s] [SUCCESS]-[MOD] UMP; Applied
+[6.46s] [SUCCESS]-[MOD] Vector; Applied
+[8.49s] [SUCCESS]-[MOD] LootFix; Applied
+[8.51s] [SUCCESS]-[MOD] AllItemsExamined; Applied
+[8.54s] [SUCCESS]-Server is working at: https://127.0.0.1:443

@@ -1,0 +1,10 @@
+{
+	"_id": "weapon_tdi_kriss_vector_gen_2_1143x23",
+	"_tpl": "weapon_tdi_kriss_vector_gen_2_1143x23",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

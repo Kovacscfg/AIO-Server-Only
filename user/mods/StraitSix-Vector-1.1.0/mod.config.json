@@ -1,0 +1,40 @@
+{
+    "name": "Vector",
+    "author": "StraitSix",
+    "description": "Release",
+    "license": "MIT",
+    "version": "1.1.0",
+    "checkUpdateUrl": "",
+    "autoUpdate": true,
+    "src": {
+        "src/modloader.js": "CacheModLoad"
+    },
+    "folders": [
+        "files/assort/ragfair",
+        "files/items",
+        "files/locales/en",
+        "files/templates"
+    ],
+    "filenames": [
+        "muzzle_vector_kriss_flash_hider_std_1143x23",
+        "muzzle_vector_kriss_flash_hider_std_9x19",
+        "muzzle_vector_kriss_thread_protector_std_9x19",
+        "muzzle_vector_kriss_thread_protector_std_1143x23",
+        "mount_vector_kriss_bottom_rail",
+        "mount_vector_kriss_side_rail",
+        "mount_vector_kriss_mk5_modular_rail",
+        "stock_vector_kriss_non_folding_adapter",
+        "stock_vector_kriss_pistol_sling_adapter",
+        "stock_vector_kriss_gen_2_folding_stock",
+        "barrel_vector_140mm_9x19",
+        "barrel_vector_170mm_1143x23",
+        "barrel_vector_140mm_1143x23",
+        "barrel_vector_170mm_9x19",
+        "weapon_tdi_kriss_vector_gen_2_9x19",
+        "weapon_tdi_kriss_vector_gen_2_1143x23",
+        "mag_glock_glock_21_std_1143x23_13",
+        "mag_glock_kriss_magex_g30_1143x23_30",
+        "sight_front_all_kriss_defiance_low_profile_flip_up",
+        "sight_rear_all_kriss_defiance_low_profile_flip_up"
+    ]
+}

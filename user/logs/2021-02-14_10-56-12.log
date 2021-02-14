@@ -1,0 +1,25 @@
+[0.06s] [ERROR]-Missing files! Rebuilding cache required!
+[0.07s] [WARNING]-Rebuilding cache system
+[0.68s] [SUCCESS]-Create: Static Response Callbacks
+[0.69s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.70s] [SUCCESS]-Create: Cache Callback
+[0.71s] [SUCCESS]-Create: Start Callback
+[0.71s] [SUCCESS]-Create: Receive Callback
+[0.71s] [SUCCESS]-Create: Respond Callback
+[0.71s] [SUCCESS]-Create: Classes as global variables
+[0.73s] [SUCCESS]-Create: Item Action Callbacks
+[0.74s] -┌────────────────────────┐
+[0.74s] -│ JustEmuTarkov 1.0.3    │
+[0.74s] -│ « discord.gg/T66tGKa » │
+[0.74s] -└────────────────────────┘
+[4.15s] [SUCCESS]-[LootFix] Settings applied
+[4.39s] [SUCCESS]-[MOD] Arsenal; Applied
+[4.53s] [SUCCESS]-[MOD] Modified Magazines; Applied
+[4.76s] [SUCCESS]-[MOD] MCX; Loaded
+[4.94s] [SUCCESS]-[MOD] Modified Magazines; Finished
+[5.17s] [SUCCESS]-[MOD] Mk18; Applied
+[5.40s] [SUCCESS]-[MOD] UMP; Applied
+[5.63s] [SUCCESS]-[MOD] Vector; Applied
+[7.51s] [SUCCESS]-[MOD] LootFix; Applied
+[7.54s] [SUCCESS]-[MOD] AllItemsExamined; Applied
+[7.56s] [SUCCESS]-Server is working at: https://127.0.0.1:443

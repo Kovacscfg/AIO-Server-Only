@@ -1,0 +1,38 @@
+{
+    "name": "Mk18",
+    "author": "Kovacs",
+    "description": "Mk-18 and .338 Lapua Mag",
+    "license": "MIT",
+    "version": "1.0.0",
+    "checkUpdateUrl": "",
+    "autoUpdate": true,
+    "res": {
+        "bundles": {
+            "folders": [
+                "bundles"
+            ]
+        }
+    },
+    "src": {
+        "src/modloader.js": "CacheModLoad"
+    },
+    "folders": [
+        "files/assort/ragfair",
+        "files/items",
+        "files/locales/en",
+        "files/templates"
+    ],
+    "filenames": [
+        "338AP",
+        "338FMJ",
+        "338TACX",
+        "338UPZ",
+        "mk18_barrel",
+        "mk18_gasblock",
+        "mk18_handguard",
+        "mk18_lower",
+        "mk18_mag",
+        "mk18_muzzle",
+        "mk18_upper"
+    ]
+}

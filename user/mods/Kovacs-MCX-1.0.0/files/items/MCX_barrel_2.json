@@ -1,0 +1,121 @@
+{
+	"_id": "MCX_barrel_2",
+	"_name": "barrel_mcx_229mm_762x35",
+	"_parent": "55818a304bdc2db5418b457d",
+	"_type": "Item",
+	"_props": {
+		"Name": "barrel_mcx_229mm_762x35",
+		"ShortName": "barrel_mcx_229mm_762x35",
+		"Description": "barrel_mcx_229mm_762x35",
+		"Weight": 0.479,
+		"BackgroundColor": "blue",
+		"Width": 2,
+		"Height": 1,
+		"StackMaxSize": 1,
+		"Rarity": "Superrare",
+		"SpawnChance": 3,
+		"CreditsPrice": 19418,
+		"ItemSound": "mod",
+		"Prefab": {
+			"path": "assets/content/items/mods/barrels/barrel_mcx_229mm_762x35.bundle",
+			"rcid": ""
+		},
+		"UsePrefab": {
+			"path": "",
+			"rcid": ""
+		},
+		"StackObjectsCount": 1,
+		"NotShownInSlot": false,
+		"ExaminedByDefault": false,
+		"ExamineTime": 1,
+		"IsUndiscardable": false,
+		"IsUnsaleable": false,
+		"IsUnbuyable": false,
+		"IsUngivable": false,
+		"IsLockedafterEquip": false,
+		"QuestItem": false,
+		"LootExperience": 10,
+		"ExamineExperience": 2,
+		"HideEntrails": false,
+		"RepairCost": 0,
+		"RepairSpeed": 0,
+		"ExtraSizeLeft": 0,
+		"ExtraSizeRight": 3,
+		"ExtraSizeUp": 0,
+		"ExtraSizeDown": 0,
+		"ExtraSizeForceAdd": false,
+		"MergesWithChildren": true,
+		"CanSellOnRagfair": true,
+		"CanRequireOnRagfair": true,
+		"BannedFromRagfair": false,
+		"ConflictingItems": [],
+		"FixedPrice": false,
+		"Unlootable": false,
+		"UnlootableFromSlot": "FirstPrimaryWeapon",
+		"UnlootableFromSide": [],
+		"ChangePriceCoef": 1,
+		"AllowSpawnOnLocations": [],
+		"SendToClient": false,
+		"AnimationVariantsNumber": 0,
+		"DiscardingBlock": false,
+		"Grids": [],
+		"Slots": [
+			{
+				"_name": "mod_muzzle",
+				"_id": "5fbbfabed5cb881a73631950",
+				"_parent": "MCX_barrel_2",
+				"_props": {
+					"filters": [
+						{
+							"Shift": 0,
+							"Filter": [
+								"5c7954d52e221600106f4cc7",
+								"5fbc22ccf24b94483f726483",
+								"59bffc1f86f77435b128b872",
+								"5fbe7618d6fa9c00c571bb6c"
+							]
+						}
+					]
+				},
+				"_required": false,
+				"_mergeSlotWithChildren": false,
+				"_proto": "55d30c4c4bdc2db4468b457e"
+			},
+			{
+				"_name": "mod_gas_block",
+				"_id": "5fbbfabed5cb881a73631950",
+				"_parent": "MCX_barrel_2",
+				"_props": {
+					"filters": [
+						{
+							"Shift": 0,
+							"Filter": [
+								"MCX_gasblock"
+							]
+						}
+					]
+				},
+				"_required": false,
+				"_mergeSlotWithChildren": false,
+				"_proto": "55d30c4c4bdc2db4468b457e"
+			}
+		],
+		"CanPutIntoDuringTheRaid": true,
+		"CantRemoveFromSlotsDuringRaid": [],
+		"Durability": 100,
+		"Accuracy": 0,
+		"Recoil": -2,
+		"Loudness": 0,
+		"EffectiveDistance": 0,
+		"Ergonomics": -6,
+		"Velocity": -12.31,
+		"RaidModdable": true,
+		"ToolModdable": true,
+		"BlocksFolding": false,
+		"BlocksCollapsible": false,
+		"IsAnimated": false,
+		"HasShoulderContact": false,
+		"SightingRange": 0
+	},
+	"_proto": "55d355e64bdc2d962f8b4569"
+}

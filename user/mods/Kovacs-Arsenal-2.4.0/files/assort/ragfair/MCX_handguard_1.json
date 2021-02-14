@@ -1,0 +1,10 @@
+{
+	"_id": "MCX_handguard_1",
+	"_tpl": "MCX_handguard_1",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

@@ -1,0 +1,71 @@
+[0.05s] [ERROR]-Missing files! Rebuilding cache required!
+[0.05s] [WARNING]-Rebuilding cache system
+[0.42s] [WARNING]-Mod AppeazeTheCheese-BetterBundles-1.0.1 not installed, adding it to the modlist
+[0.43s] [WARNING]-Mod CFG-LootFix-1.0.6 not installed, adding it to the modlist
+[0.43s] [WARNING]-Mod Kovacs-MCX-1.0.0 not installed, adding it to the modlist
+[0.44s] [WARNING]-Mod Kovacs-MK18-1.0.0 not installed, adding it to the modlist
+[0.44s] [WARNING]-Mod Kovacs-UMP-1.0.0 not installed, adding it to the modlist
+[0.45s] [WARNING]-Mod StraitSix-Vector-1.1.0 not installed, adding it to the modlist
+[0.46s] [WARNING]-Mod TheMaoci-AllItemsExamined-1.0.0 not installed, adding it to the modlist
+[0.53s] [SUCCESS]-Create: Static Response Callbacks
+[0.54s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.55s] [SUCCESS]-Create: Cache Callback
+[0.56s] [SUCCESS]-Create: Start Callback
+[0.56s] [SUCCESS]-Create: Receive Callback
+[0.56s] [SUCCESS]-Create: Respond Callback
+[0.56s] [SUCCESS]-Create: Classes as global variables
+[0.58s] [SUCCESS]-Create: Item Action Callbacks
+[0.58s] -┌────────────────────────┐
+[0.58s] -│ JustEmuTarkov 1.0.3    │
+[0.58s] -│ « discord.gg/T66tGKa » │
+[0.58s] -└────────────────────────┘
+[3.46s] [SUCCESS]-[LootFix] Settings applied
+[3.66s] [SUCCESS]-[MOD] MCX; Applied
+[3.80s] [SUCCESS]-[MOD] MCX; Applied
+[3.98s] [SUCCESS]-[MOD] Mk18; Applied
+[4.17s] [SUCCESS]-[MOD] UMP; Applied
+[4.38s] [SUCCESS]-[MOD] Vector; Applied
+[5.17s] [SUCCESS]-[MOD] BetterBundles; Applied
+[5.94s] [SUCCESS]-[MOD] LootFix; Applied
+[5.95s] [SUCCESS]-[MOD] AllItemsExamined; Applied
+[5.97s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[7.23s] [LOCAL] -/launcher/server/connect
+[8.61s] [LOCAL] -/launcher/profile/login
+[8.61s] [LOCAL] -/launcher/profile/get
+[14.02s] [LOCAL] -/singleplayer/bundles
+[14.68s] [LOCAL] -/singleplayer/bundles
+[14.82s] [LOCAL] -/mode/offline
+[27.44s] [AID181216492712305345KHG][LOCAL] -/client/game/start
+[27.50s] [AID181216492712305345KHG][LOCAL] -/client/menu/locale/en
+[27.55s] [AID181216492712305345KHG][LOCAL] -/client/game/version/validate
+[27.58s] [AID181216492712305345KHG][LOCAL] -/client/languages
+[27.62s] [AID181216492712305345KHG][LOCAL] -/client/game/config
+[28.73s] [AID181216492712305345KHG][LOCAL] -/client/items
+[38.92s] [AID181216492712305345KHG][LOCAL] -/client/customization
+[38.95s] [AID181216492712305345KHG][LOCAL] -/client/globals
+[39.94s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/list
+[40.69s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/select
+[40.72s] [AID181216492712305345KHG][LOCAL] -/client/profile/status
+[40.77s] [AID181216492712305345KHG][LOCAL] -/client/weather
+[40.80s] [AID181216492712305345KHG][LOCAL] -/client/locale/en
+[40.80s] [AID181216492712305345KHG][LOCAL] -/client/locations
+[40.80s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/select
+[40.88s] [AID181216492712305345KHG][LOCAL] -/client/profile/status
+[41.81s] [AID181216492712305345KHG][LOCAL] -/client/handbook/templates
+[47.51s] [AID181216492712305345KHG][LOCAL] -/client/hideout/areas
+[47.90s] [AID181216492712305345KHG][LOCAL] -/client/hideout/settings
+[48.05s] [AID181216492712305345KHG][LOCAL] -/client/hideout/production/recipes
+[49.23s] [AID181216492712305345KHG][LOCAL] -/client/hideout/production/scavcase/recipes
+[49.32s] [AID181216492712305345KHG][LOCAL] -/client/handbook/builds/my/list
+[49.38s] [AID181216492712305345KHG][LOCAL] -/client/quest/list
+[51.09s] [AID181216492712305345KHG][LOCAL] -/client/notifier/channel/create
+[52.22s] [AID181216492712305345KHG][LOCAL] -/client/mail/dialog/list
+[52.24s] [AID181216492712305345KHG][LOCAL] -/client/friend/list
+[52.24s] [AID181216492712305345KHG][LOCAL] -/client/friend/request/list/inbox
+[52.24s] [AID181216492712305345KHG][LOCAL] -/client/profile/status
+[52.27s] [AID181216492712305345KHG][LOCAL] -/client/friend/request/list/outbox
+[52.29s] [AID181216492712305345KHG][LOCAL] -/client/trading/customization/storage
+[52.42s] [AID181216492712305345KHG][LOCAL] -/client/server/list
+[52.42s] [AID181216492712305345KHG][LOCAL] -/client/trading/api/getTradersList
+[52.66s] [AID181216492712305345KHG][LOCAL] -/client/checkVersion
+[127.41s] [AID181216492712305345KHG][LOCAL] -/client/game/logout

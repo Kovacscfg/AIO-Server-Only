@@ -1,0 +1,60 @@
+All Vector Parts:
+    - name: barrel_vector_140mm_9x19
+        - ID: 5fbbc366ca32ed67276c1557
+
+    - name: barrel_vector_140mm_1143x23
+        - ID: 5fb65363d1409e5ca04b54f5
+
+    - name: barrel_vector_170mm_9x19
+        - ID: 5fbbc383d5cb881a7363194a
+
+    - name: barrel_vector_170mm_1143x23
+        - ID: 5fb653962b1b027b1f50bd03
+
+    - name: mag_glock_glock_21_std_1143x23_13
+        - ID: 5fb651b52b1b027b1f50bcff
+
+    - name: mag_glock_kriss_magex_g30_1143x23_30
+        - ID: 5fb651dc85f90547f674b6f4
+    
+    - name: mount_vector_kriss_bottom_rail
+        - ID: 5fbb976df9986c4cff3fe5f2
+
+    - name: mount_vector_kriss_mk5_modular_rail
+        - ID: 5fbb978207e8a97d1f0902d3
+
+    - name: mount_vector_kriss_side_rail
+        - ID: 5fce0f9b55375d18a253eff2
+
+    - name: muzzle_vector_kriss_flash_hider_std_9x19
+        - ID: 5fbbc3324e8a554c40648348
+
+    - name: muzzle_vector_kriss_flash_hider_std_1143x23
+        - ID: 5fb65424956329274326f316
+
+    - name: muzzle_vector_kriss_thread_protector_std_9x19
+        - ID: ffbbc34106bde7524f03cbe9
+
+    - name: muzzle_vector_kriss_thread_protector_std_1143x23
+        - ID: 5fb6548dd1409e5ca04b54f9
+
+    - name: sight_front_all_kriss_defiance_low_profile_flip_up
+        - ID: 5fb6567747ce63734e3fa1dc
+
+    - name: sight_rear_all_kriss_defiance_low_profile_flip_up
+        - ID: 5fb6564947ce63734e3fa1da
+
+    - name: stock_vector_kriss_gen_2_folding_stock
+        - ID: 5fb6558ad6f0b2136f2d7eb7
+
+    - name: stock_vector_kriss_non_folding_adapter
+        - ID: 5fb655b748c711690e3a8d5a
+
+    - name: stock_vector_kriss_pistol_sling_adapter
+        - ID: 5fb655a72b1b027b1f50bd06
+
+    - name: weapon_tdi_kriss_vector_gen_2_9x19
+        - ID: 5fc3f2d5900b1d5091531e57
+
+    - name: weapon_tdi_kriss_vector_gen_2_1143x23
+        - ID: 5fb64bc92b1b027b1f50bcf2 

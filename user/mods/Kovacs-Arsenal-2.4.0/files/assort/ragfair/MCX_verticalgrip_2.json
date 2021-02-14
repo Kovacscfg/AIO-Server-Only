@@ -1,0 +1,10 @@
+{
+	"_id": "MCX_verticalgrip_2",
+	"_tpl": "MCX_verticalgrip_2",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

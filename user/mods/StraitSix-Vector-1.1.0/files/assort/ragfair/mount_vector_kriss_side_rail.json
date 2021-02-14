@@ -1,0 +1,10 @@
+{
+	"_id": "mount_vector_kriss_side_rail",
+	"_tpl": "mount_vector_kriss_side_rail",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

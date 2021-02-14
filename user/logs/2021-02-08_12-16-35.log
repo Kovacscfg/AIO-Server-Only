@@ -1,0 +1,38 @@
+[0.07s] [ERROR]-Missing files! Rebuilding cache required!
+[0.08s] [WARNING]-Rebuilding cache system
+[0.47s] [WARNING]-Mod Kovacs-MK18-1.0.0 not installed, adding it to the modlist
+[0.77s] [SUCCESS]-Create: Static Response Callbacks
+[0.81s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.87s] [SUCCESS]-Create: Cache Callback
+[0.92s] [SUCCESS]-Create: Start Callback
+[0.93s] [SUCCESS]-Create: Receive Callback
+[0.95s] [SUCCESS]-Create: Respond Callback
+[0.95s] [SUCCESS]-Create: Classes as global variables
+[1.26s] [SUCCESS]-Create: Item Action Callbacks
+[1.27s] -┌────────────────────────┐
+[1.27s] -│ JustEmuTarkov 1.0.3    │
+[1.27s] -│ « discord.gg/T66tGKa » │
+[1.27s] -└────────────────────────┘
+[6.02s] [SUCCESS]-[LootFix] Settings applied
+[6.35s] [SUCCESS]-[MOD] Mk18; Applied
+[7.96s] [SUCCESS]-[MOD] LootFix; Applied
+[7.97s] [SUCCESS]-[MOD] AllItemsExamined; Applied
+[8.00s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[9.32s] [LOCAL] -/launcher/server/connect
+[10.47s] [LOCAL] -/launcher/profile/login
+[13.24s] [LOCAL] -/launcher/profile/register
+[13.25s] [LOCAL] -/launcher/profile/login
+[13.25s] [LOCAL] -/launcher/profile/get
+[13.53s] [AID181216492712305345KHG][LOCAL] -/launcher/profile/login
+[13.53s] [AID181216492712305345KHG][LOCAL] -/launcher/profile/get
+[18.80s] [LOCAL] -/singleplayer/bundles
+[19.41s] [LOCAL] -/singleplayer/bundles
+[19.55s] [LOCAL] -/mode/offline
+[32.03s] [AID181216492712305345KHG][LOCAL] -/client/game/start
+[32.03s] [WARNING]-New account login!
+[32.09s] [AID181216492712305345KHG][LOCAL] -/client/menu/locale/en
+[32.14s] [AID181216492712305345KHG][LOCAL] -/client/game/version/validate
+[32.17s] [AID181216492712305345KHG][LOCAL] -/client/languages
+[32.21s] [AID181216492712305345KHG][LOCAL] -/client/game/config
+[33.20s] [AID181216492712305345KHG][LOCAL] -/client/items
+[70.18s] [AID181216492712305345KHG][LOCAL] -/client/items?retry=1

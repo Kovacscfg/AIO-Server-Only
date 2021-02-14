@@ -1,0 +1,110 @@
+[0.05s] [ERROR]-Missing files! Rebuilding cache required!
+[0.06s] [WARNING]-Rebuilding cache system
+[0.80s] [SUCCESS]-Create: Static Response Callbacks
+[0.80s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.81s] [SUCCESS]-Create: Cache Callback
+[0.81s] [SUCCESS]-Create: Start Callback
+[0.82s] [SUCCESS]-Create: Receive Callback
+[0.82s] [SUCCESS]-Create: Respond Callback
+[0.82s] [SUCCESS]-Create: Classes as global variables
+[0.84s] [SUCCESS]-Create: Item Action Callbacks
+[0.84s] -┌────────────────────────┐
+[0.84s] -│ JustEmuTarkov 1.0.3    │
+[0.84s] -│ « discord.gg/T66tGKa » │
+[0.84s] -└────────────────────────┘
+[3.81s] [SUCCESS]-[LootFix] Settings applied
+[4.02s] [SUCCESS]-[MOD] Mk18; Applied
+[4.21s] [SUCCESS]-[MOD] UMP; Applied
+[4.42s] [SUCCESS]-[MOD] Vector; Applied
+[4.61s] [SUCCESS]-[MOD] Arsenal; Applied
+[4.76s] [SUCCESS]-[MOD] Arsenal; Applied
+[5.00s] [SUCCESS]-[MOD] MCX; Applied
+[5.13s] [SUCCESS]-[MOD] MCX; Applied
+[5.89s] [SUCCESS]-[MOD] BetterBundles; Applied
+[6.63s] [SUCCESS]-[MOD] LootFix; Applied
+[6.64s] [SUCCESS]-[MOD] AllItemsExamined; Applied
+[6.66s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[14.03s] [LOCAL] -/singleplayer/bundles
+[14.72s] [LOCAL] -/singleplayer/bundles
+[14.86s] [LOCAL] -/mode/offline
+[27.87s] [AID181216492712305345KHG][LOCAL] -/client/game/start
+[27.91s] [AID181216492712305345KHG][LOCAL] -/client/menu/locale/en
+[27.97s] [AID181216492712305345KHG][LOCAL] -/client/game/version/validate
+[28.00s] [AID181216492712305345KHG][LOCAL] -/client/languages
+[28.04s] [AID181216492712305345KHG][LOCAL] -/client/game/config
+[29.16s] [AID181216492712305345KHG][LOCAL] -/client/items
+[40.28s] [AID181216492712305345KHG][LOCAL] -/client/customization
+[40.33s] [AID181216492712305345KHG][LOCAL] -/client/globals
+[41.17s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/list
+[41.78s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/select
+[41.82s] [AID181216492712305345KHG][LOCAL] -/client/profile/status
+[41.87s] [AID181216492712305345KHG][LOCAL] -/client/weather
+[41.90s] [AID181216492712305345KHG][LOCAL] -/client/locale/en
+[41.90s] [AID181216492712305345KHG][LOCAL] -/client/locations
+[41.94s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/select
+[42.00s] [AID181216492712305345KHG][LOCAL] -/client/profile/status
+[42.82s] [AID181216492712305345KHG][LOCAL] -/client/handbook/templates
+[47.10s] [AID181216492712305345KHG][LOCAL] -/client/hideout/areas
+[47.50s] [AID181216492712305345KHG][LOCAL] -/client/hideout/settings
+[47.54s] [AID181216492712305345KHG][LOCAL] -/client/hideout/production/recipes
+[47.60s] [AID181216492712305345KHG][LOCAL] -/client/hideout/production/scavcase/recipes
+[47.68s] [AID181216492712305345KHG][LOCAL] -/client/handbook/builds/my/list
+[47.73s] [AID181216492712305345KHG][LOCAL] -/client/quest/list
+[48.65s] [AID181216492712305345KHG][LOCAL] -/client/notifier/channel/create
+[49.90s] [AID181216492712305345KHG][LOCAL] -/client/mail/dialog/list
+[49.94s] [AID181216492712305345KHG][LOCAL] -/client/friend/list
+[49.94s] [AID181216492712305345KHG][LOCAL] -/client/friend/request/list/inbox
+[49.94s] [AID181216492712305345KHG][LOCAL] -/client/friend/request/list/outbox
+[49.94s] [AID181216492712305345KHG][LOCAL] -/client/profile/status
+[49.94s] [AID181216492712305345KHG][LOCAL] -/client/trading/customization/storage
+[50.58s] [AID181216492712305345KHG][LOCAL] -/client/server/list
+[50.58s] [AID181216492712305345KHG][LOCAL] -/client/trading/api/getTradersList
+[50.73s] [AID181216492712305345KHG][LOCAL] -/client/checkVersion
+[60.33s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[76.04s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[86.55s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[86.57s] [SUCCESS]-Items taken. Status OK.
+[86.57s] [SUCCESS]-Bought item: MCX_lower
+[93.10s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[93.44s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[96.42s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[99.82s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[103.97s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[104.00s] [SUCCESS]-Items taken. Status OK.
+[104.00s] [SUCCESS]-Bought item: MCX_upper
+[104.86s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[112.75s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[112.78s] [SUCCESS]-Items taken. Status OK.
+[112.78s] [SUCCESS]-Bought item: MCX_grip
+[114.89s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[118.05s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[118.07s] [SUCCESS]-Items taken. Status OK.
+[118.08s] [SUCCESS]-Bought item: MCX_stock_1
+[119.13s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[123.23s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[123.25s] [SUCCESS]-Items taken. Status OK.
+[123.25s] [SUCCESS]-Bought item: 5448c1d04bdc2dff2f8b4569
+[123.72s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[123.73s] [SUCCESS]-Items taken. Status OK.
+[123.74s] [SUCCESS]-Bought item: 5448c1d04bdc2dff2f8b4569
+[124.39s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[124.41s] [SUCCESS]-Items taken. Status OK.
+[124.41s] [SUCCESS]-Bought item: 5448c1d04bdc2dff2f8b4569
+[124.89s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[124.91s] [SUCCESS]-Items taken. Status OK.
+[124.91s] [SUCCESS]-Bought item: 5448c1d04bdc2dff2f8b4569
+[125.94s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[127.33s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[127.36s] [SUCCESS]-Items taken. Status OK.
+[127.36s] [SUCCESS]-Bought item: MCX_charge
+[130.55s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[133.61s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[138.74s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[138.76s] [SUCCESS]-Items taken. Status OK.
+[138.76s] [SUCCESS]-Bought item: MCX_barrel_1
+[139.62s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[141.34s] [AID181216492712305345KHG][LOCAL] -/client/game/profile/items/moving
+[141.37s] [SUCCESS]-Items taken. Status OK.
+[141.37s] [SUCCESS]-Bought item: MCX_handguard_2
+[145.34s] [AID181216492712305345KHG][LOCAL] -/client/ragfair/find
+[155.64s] [AID181216492712305345KHG][LOCAL] -/client/game/logout

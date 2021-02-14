@@ -1,0 +1,18 @@
+{
+	"AID8131647517931710690RF": {
+		"id": "AID8131647517931710690RF",
+		"nickname": "",
+		"email": "Maoci",
+		"password": "123",
+		"wipe": false,
+		"edition": "Edge Of Darkness"
+	},
+	"AID1141029181698631819lk": {
+		"id": "AID1141029181698631819lk",
+		"nickname": "",
+		"email": "Playkov",
+		"password": "123",
+		"wipe": true,
+		"edition": "Edge Of Darkness"
+	}
+}
